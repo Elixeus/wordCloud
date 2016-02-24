@@ -1,0 +1,58 @@
+
+
+science: generalizable and replicable ()
+
+1. define a research question
+Write down a conceptual framework/hypothesis
+check literature
+develop an empirical approach
+
+2. think about the data available and the measurement error
+
+total error = row error + column error + cell error
+
+row error: rows omitted,                        duplicated 
+
+        taxis/ people who don't take taxi    |  one ssn for thousands of jobs in CA and TX damn foreigners
+        
+column error:
+specification error
+- concept
+- measurement
+- interpretation
+
+cell error
+- content error (problems in the measurement process, transcription error, data processing error)
+- specification error (error in data capture fro specific units)
+- missing data (the measurement process, transcription error, data processing error)
+
+machine learning clarke 2014
+
+3. link datasets
+UI Wage Record Data 
+
+4. address privacy and condidentiality/ethics
+Privacy, Big Data, and the Public Good
+common rule suggestions
+- identity disclosure
+- attribute disclosure (syllogism)
+- inferential disclosure (income for a small group of people than a large group of people)
+
+basic risk measurement
+recoding
+local suppression
+PRAM (postranddomization)
+information loss measures
+shuffling
+microaggregation
+adding noise
+
+
+5.
+
+take-away
+What are we measuring?
+How are we measuring?
+What are we missing?
+are we protecting human subjects?
+can people be reidentified?
